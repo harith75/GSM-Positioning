@@ -1,7 +1,7 @@
 
-# CellTrack
+# GSM-Positioning
 
-**CellTrack** is an application that estimates the position of a GSM device using data from surrounding cell towers.  
+**GSM-Positioning** is an application that estimates the position of a GSM device using data from surrounding cell towers.  
 It provides multiple positioning methods and displays the results on an interactive map.
 
 ---
@@ -50,8 +50,8 @@ Place the `.csv` file inside the project directory.
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/username/celltrack.git
-cd celltrack
+git clone https://github.com/username/GSM-Positioning.git
+cd GSM-Positioning
 pip install -r requirements.txt
 ````
 
